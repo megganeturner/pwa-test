@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: arial;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+}
