@@ -16,7 +16,7 @@
   "start_url": "index.html?source=pwa",
   "background_color": "#5ce1e6",
   "display": "standalone",
-  "orientation": "landscape-secondary",
+  "orientation": "none",
   "scope": "/",
   "theme_color": "#5ce1e6"
 }
